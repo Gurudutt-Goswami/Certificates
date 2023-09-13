@@ -1,4 +1,4 @@
-# Certificates
+# Accolades
 
 ### Birlasoft
 ![BSL Leader select award](https://github.com/Gurudutt-Goswami/Certificates/assets/86184439/09cae486-59b8-4a81-b359-38de248adf83)
@@ -6,8 +6,8 @@
 
 
 ### Gilead
-[GG_Gthanks2.pdf](https://github.com/Gurudutt-Goswami/Certificates/files/12598000/GG_Gthanks2.pdf)
-[GG_Gthanks.pdf](https://github.com/Gurudutt-Goswami/Certificates/files/12597999/GG_Gthanks.pdf)
+![Gilead 2](https://github.com/Gurudutt-Goswami/Certificates/assets/86184439/6fff1356-6bd3-47db-983f-ea575f6b3357)
+![Gilead 1](https://github.com/Gurudutt-Goswami/Certificates/assets/86184439/b63117ee-3d48-433d-912a-f6c74582a4bc)
 
 
 ### Prudential
